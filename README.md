@@ -1,2 +1,4 @@
-# hello-world
-new-world
+#hello-world 
+我叫江泽汇，你也可以叫我Simon
+今天我第一次来到GitHub，希望和大家一起学习！
+希望能在这学习更多的编程技术！
